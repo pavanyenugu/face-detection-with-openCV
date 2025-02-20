@@ -15,7 +15,7 @@ This project implements face detection using OpenCV, a popular open-source compu
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-username/face-detection-with-openCV.git
+   git clone https://github.com/pavanyenugu/face-detection-with-openCV.git
    cd face-detection-with-openCV
    ```
 

@@ -1,0 +1,24 @@
+
+
+Instructions to Deploy Face Detection on Streamlit
+
+1. Install Required Libraries 
+   Open terminal and install the necessary libraries:
+
+   ```bash
+   pip install opencv-python streamlit pillow numpy
+   ```
+
+2.  Download "face_detection_streamlit.py" from the repository /or update your code based on your requirements.
+
+   
+
+3. Run the Streamlit App 
+   In the terminal, navigate to the directory where your `face_detection_streamlit.py` is located and run the following command:
+
+   ```bash
+   streamlit run face_detection_streamlit.py
+   ```
+
+4. Access the App
+   After running the command, Streamlit will provide a local URL (e.g., `http://localhost:8501`). Open this URL in a browser to interact with your app.

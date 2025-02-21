@@ -45,7 +45,7 @@ This project implements face detection using OpenCV, a popular open-source compu
 ## How to Use
 
 1. **Upload your image**:
-   Place an image file (preferably with a clear view of faces) in the same directory as the script or upload it to Google Colab.
+   Place an image file (preferably with a clear view of faces) in the same directory as the script or upload it to Google Colab files.
 
 2. **Run the script**:
    In your terminal or Google Colab, run the Python script to detect faces:
